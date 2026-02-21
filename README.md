@@ -14,3 +14,11 @@ A Neural Network is a system inspired by the human brain that learns patterns fr
 
 ## What are Transformers?
 Transformers are a special type of neural network that understand relationships between words. Models like ChatGPT use transformers.
+
+
+
+## What is a Token?
+A token is a small piece of text that a language model processes. Models predict the next token to generate text.
+
+## What is an Embedding?
+An embedding is a numeric representation of text that helps the model understand meaning.
